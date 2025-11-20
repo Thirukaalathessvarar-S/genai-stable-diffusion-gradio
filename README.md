@@ -4,6 +4,7 @@
 To design and deploy a prototype application for image generation utilizing the Stable Diffusion model, integrated with the Gradio UI framework for interactive user engagement and evaluation.
 
 ### PROBLEM STATEMENT:
+The task involves creating a user-friendly interface where users can input text descriptions (prompts) to generate high-quality, realistic images using the Stable Diffusion model. The prototype aims to demonstrate the capabilities of the model while ensuring ease of interaction through Gradio.
 
 ### DESIGN STEPS:
 #### STEP 1:
